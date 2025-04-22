@@ -1,0 +1,10 @@
+{
+    "Trip": "One-Way",
+    "FromCity": "New Delhi",
+    "ToCity": "Mumbai",
+    "DepartureDate": "2026-07-03",
+    "Adults": "3",
+    "Children": "3",
+    "Infants": "2",
+    "SpecialFare": "Armed Forces"
+  }
